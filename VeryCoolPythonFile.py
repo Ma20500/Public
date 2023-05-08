@@ -2,4 +2,4 @@ from webbrowser import open
 
 input('You sure?')
 
-open('https://www.youtube.com/watch?v=dQw4w9WgXcQ')
+open('https://blogs.motiondevelopment.top/articles/python-online-Ma20500-file')
